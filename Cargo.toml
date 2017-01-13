@@ -1,0 +1,12 @@
+[package]
+name = "dir-obj"
+version = "0.1.0"
+description = "simple directory object that has files with data"
+repository = "https://github.com/vitiral/dir-obj-rs"
+authors = ["Garrett Berg <vitiral@gmail.com>"]
+readme = "README.md"
+keywords = ["dir", "object", "struct", "ram", "memory"]
+license = "LGPL-3.0+"
+
+[dependencies]
+[dev-dependencies]

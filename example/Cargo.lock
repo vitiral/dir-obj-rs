@@ -1,0 +1,14 @@
+[root]
+name = "example"
+version = "0.1.0"
+dependencies = [
+ "dir-obj 0.1.0 (git+https://github.com/vitiral/dir-obj-rs)",
+]
+
+[[package]]
+name = "dir-obj"
+version = "0.1.0"
+source = "git+https://github.com/vitiral/dir-obj-rs#9d839b5bf3f25a08f6b854f49835ce42fcad971b"
+
+[metadata]
+"checksum dir-obj 0.1.0 (git+https://github.com/vitiral/dir-obj-rs)" = "<none>"
